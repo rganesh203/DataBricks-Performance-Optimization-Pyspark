@@ -1,4 +1,6 @@
 # DataBricks-Performance-Optimization-Pyspark
+![image](https://github.com/rganesh203/DataBricks-Performance-Optimization-Pyspark/assets/68594076/ccc77e16-0a5c-4974-8948-c23474752c5b)
+
 
 Optimizing PySpark performance on Databricks involves several strategies and best practices to ensure efficient resource utilization and faster job execution. Here are key optimization techniques you can apply:
 
